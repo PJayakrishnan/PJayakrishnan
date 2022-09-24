@@ -10,4 +10,4 @@ Hi there. I am Jayakrishnan, Full Stack Developer from India. I usually work usi
 
 ### Contacts
 * Email   : pjayakrishnan95@gmail.com
-* LinkedIn: https://www.linkedin.com/in/jayakrishnan-p-218a31228/
+* LinkedIn: https://www.linkedin.com/in/pjayakrishnan/
