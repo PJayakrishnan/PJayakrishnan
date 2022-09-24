@@ -8,4 +8,6 @@ Hi there. I am Jayakrishnan, Full Stack Developer from India. I usually work usi
   <img><img src="https://github-readme-stats.vercel.app/api?username=pjayakrishnan&show_icons=true&theme=dark"alt="Jayakrishnan's stats"></img>
 </p>
 
-
+### Contacts
+* Email   : pjayakrishnan95@gmail.com
+* LinkedIn: https://www.linkedin.com/in/jayakrishnan-p-218a31228/
